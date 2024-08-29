@@ -8,7 +8,7 @@
 					<div class="">
 						<div>
 							<label class="form-label" for="endpoint">Type in the tags, seperated by commas :</label>
-							<input type="text" id="cacheMaxAgeDays" name="cacheMaxAgeDays" title="Cache Time-To-Live, days" class="form-control input-lg" placeholder="Tag1, Tag2, Tag3..." ></input>
+							<textarea type="text" id="cacheMaxAgeDays" name="cacheMaxAgeDays" title="Cache Time-To-Live, days" class="form-control input-lg" placeholder="Tag1, Tag2, Tag3..." ></textarea>
 						</div>
 					</div>
 				</div>
