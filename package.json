@@ -1,6 +1,6 @@
 {
   "name": "nodebb-plugin-global-tags",
-  "version": "2.1.0",
+  "version": "2.1.1",
   "description": "Iframely will give you embeds from over 1700 domains, plus previews for the rest of the web.",
   "main": "library.js",
   "repository": {
